@@ -5,10 +5,13 @@
 A group of commonly used custom [React.js](https://reactjs.org) hooks.
 
 ## Installation
-You can install the package using npm:
+You can install the package using npm or yarn:
 
 ```bash
-npm install use-any-hook
+npm i @saif.dev/use-any-hook
+```
+```bash
+yarn add @saif.dev/use-any-hook
 ```
 
 ## Stable
