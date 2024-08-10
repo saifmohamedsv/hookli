@@ -11,10 +11,6 @@
   "scripts": {
     "build": "tsup"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/use-any-hook/use-any-hook"
-  },
   "keywords": [
     "hooks",
     "react.js",
@@ -27,7 +23,7 @@
   ],
   "author": "Saif Mohamed <saifmohamed.dev@gmail.com> (https://linkedin.com/in/saifmohamedsv/)",
   "license": "ISC",
-  "homepage": "https://github.com/use-any-hook/use-any-hook#readme",
+  "homepage": "https://use-any-hook-d92674ab.mintlify.app/installation",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

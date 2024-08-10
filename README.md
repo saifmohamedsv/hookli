@@ -10,6 +10,7 @@ You can install the package using npm or yarn:
 ```bash
 npm i @saif.dev/use-any-hook
 ```
+### OR
 ```bash
 yarn add @saif.dev/use-any-hook
 ```
