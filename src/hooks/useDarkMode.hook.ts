@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-export interface UseDarkModeState {
+interface UseDarkModeState {
   isDarkMode: boolean;
   toggleDarkMode: () => void;
 }

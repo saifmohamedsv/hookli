@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useLocalStorage } from "./useLocalStorage.hook"; // Assuming useLocalStorage is also typed
 
-export interface UseLocalStorageWithExpiryState<T> {
+interface UseLocalStorageWithExpiryState<T> {
   value: T | null;
   setStoredValue: (newValue: T) => void;
 }

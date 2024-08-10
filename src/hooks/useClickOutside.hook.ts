@@ -1,6 +1,6 @@
 import { RefObject, useEffect, useRef } from "react";
 
-export type ClickOutsideCallback = () => void;
+type ClickOutsideCallback = () => void;
 
 export const useClickOutside = <T extends HTMLElement>(
   ref: React.Ref<T>,

@@ -1,18 +1,18 @@
 import { useEffect, useState } from "react";
 
-export interface GeolocationError {
+interface GeolocationError {
   code: number;
   message: string;
 }
 
-export type GeolocationPosition = {
+type GeolocationPosition = {
   coords: {
     latitude: number;
     longitude: number;
   };
 };
 
-export interface GeolocationState {
+interface GeolocationState {
   location: GeolocationPosition | null;
   error: GeolocationError | Error | null;
 }
