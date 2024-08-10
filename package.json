@@ -1,6 +1,6 @@
 {
   "name": "@saif.dev/use-any-hook",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "description": "All react.js custom hooks you frequently use.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
