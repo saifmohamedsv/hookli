@@ -1,42 +1,39 @@
-# useAnyHook();
-
 [![npm version](https://img.shields.io/npm/v/use-any-hook.svg?style=flat-square)](https://www.npmjs.org/package/use-any-hook)
 [![npm downloads](https://img.shields.io/npm/dm/use-any-hook.svg?style=flat-square)](https://npm-stat.com/charts.html?package=use-any-hook)
 
-A collection of commonly used custom [React.js](https://reactjs.org) hooks for various use cases in front-end development.
+# [useAnyHook](https://www.npmjs.com/package/@saif.dev/use-any-hook)
+A group of commonly used custom [React.js](https://reactjs.org) hooks.
 
 ## Installation
-
 You can install the package using npm:
 
 ```bash
 npm install use-any-hook
 ```
 
-## Content Summary
+## Stable
 
 Thi is a quide through the usage process, jump directly to the hook you want:
 
-###### [useFetch](https://www.npmjs.com/package/use-any-hook#1-usefetch)
+###### [useFetch](https://use-any-hook-d92674ab.mintlify.app/hooks/useFetch)
 
-###### [useDebounce](https://www.npmjs.com/package/use-any-hook#2-useDebounce)
+###### [useDebounce](https://use-any-hook-d92674ab.mintlify.app/hooks/useDebounce)
 
-###### [useClickOutside](https://www.npmjs.com/package/use-any-hook#3-useClickOutside)
+###### [useClickOutside](https://use-any-hook-d92674ab.mintlify.app/hooks/useClickOutside)
 
-###### [useLocalStorageWithExpiry](https://www.npmjs.com/package/use-any-hook#4-useLocalStorageWithExpiry)
+###### [useLocalStorageWithExpiry](https://use-any-hook-d92674ab.mintlify.app/hooks/useLocalStorageWithExpiry)
 
-###### [useForm](https://www.npmjs.com/package/use-any-hook#5-useForm)
+###### [useForm](https://use-any-hook-d92674ab.mintlify.app/hooks/useForm)
 
-###### [useDarkMode](https://www.npmjs.com/package/use-any-hook#6-useDarkMode)
+###### [useDarkMode](https://use-any-hook-d92674ab.mintlify.app/hooks/useDarkMode)
 
-###### [useInfiniteScroll](https://www.npmjs.com/package/use-any-hook#7-useInfiniteScroll)
+###### [useInfiniteScroll](https://use-any-hook-d92674ab.mintlify.app/hooks/useInfiniteScroll)
 
-###### [useMousePosition](https://www.npmjs.com/package/use-any-hook#8-useMousePosition)
+###### [useMousePosition](https://use-any-hook-d92674ab.mintlify.app/hooks/useMousePosition)
 
-###### [useGeoLocation](https://www.npmjs.com/package/use-any-hook#9-useGeoLocation)
+###### [useGeoLocation](https://use-any-hook-d92674ab.mintlify.app/hooks/useGeoLocation)
 
-###
-
+<!-- 
 ## Usage
 
 A quick quide for each hook in the [use-any-hook](https://www.npmjs.com/package/use-any-hook) package
@@ -291,4 +288,4 @@ function MyComponent() {
     </div>
   );
 }
-```
+``` -->

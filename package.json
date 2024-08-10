@@ -1,5 +1,5 @@
 {
-  "name": "use-any-hook",
+  "name": "@saif.dev/use-any-hook",
   "version": "1.3.5",
   "description": "All react.js custom hooks you frequently use.",
   "main": "./dist/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saifmohamedsv/alhook.git"
+    "url": "git+https://github.com/use-any-hook/use-any-hook"
   },
   "keywords": [
     "hooks",
@@ -27,10 +27,7 @@
   ],
   "author": "Saif Mohamed <saifmohamed.dev@gmail.com> (https://linkedin.com/in/saifmohamedsv/)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/saifmohamedsv/alhook/issues"
-  },
-  "homepage": "https://github.com/saifmohamedsv/alhook#readme",
+  "homepage": "https://github.com/use-any-hook/use-any-hook#readme",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
