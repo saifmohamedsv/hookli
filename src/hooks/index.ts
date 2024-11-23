@@ -8,3 +8,4 @@ export * from "./useInfiniteScroll.hook";
 export * from "./useLocalStorage.hook";
 export * from "./useMousePosition.hook";
 export * from "./useLocalStorageWithExpiry.hook";
+export * from "./useToggle.hook";
