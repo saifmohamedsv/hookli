@@ -2,18 +2,26 @@
 [![npm downloads](https://img.shields.io/npm/dm/use-any-hook.svg?style=flat-square)](https://npm-stat.com/charts.html?package=use-any-hook)
 
 # [useAnyHook](https://www.npmjs.com/package/@saif.dev/use-any-hook)
+
 A group of commonly used custom [React.js](https://reactjs.org) hooks.
 
 ## Installation
+
 You can install the package using npm or yarn:
 
 ```bash
 npm i @saif.dev/use-any-hook
 ```
+
 ### OR
+
 ```bash
 yarn add @saif.dev/use-any-hook
 ```
+
+## Read The [Docs](https://use-any-hook-d92674ab.mintlify.app/installation)
+
+Visit the documentation website so you can find installation/usage guides.
 
 ## Stable
 
@@ -37,7 +45,9 @@ Thi is a quide through the usage process, jump directly to the hook you want:
 
 ###### [useGeoLocation](https://use-any-hook-d92674ab.mintlify.app/hooks/useGeoLocation)
 
-<!-- 
+###### [useToggle](https://use-any-hook-d92674ab.mintlify.app/hooks/useToggle)
+
+<!--
 ## Usage
 
 A quick quide for each hook in the [use-any-hook](https://www.npmjs.com/package/use-any-hook) package

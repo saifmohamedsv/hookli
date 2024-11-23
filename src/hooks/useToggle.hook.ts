@@ -6,7 +6,7 @@ import { useCallback, useState } from "react";
  * @param initialValue - The initial boolean value. Defaults to `false`.
  * @returns An array containing the current state, a function to toggle it, and a function to explicitly set the value.
  */
-export function useToggle(initialValue: boolean = false): [boolean, () => void, (value: boolean) => void] {
+export const useToggle = (initialValue: boolean = false): [boolean, () => void, (value: boolean) => void] => {
   const [state, setState] = useState<boolean>(initialValue);
 
   // Toggles the current state
@@ -20,4 +20,4 @@ export function useToggle(initialValue: boolean = false): [boolean, () => void, 
   }, []);
 
   return [state, toggle, setExplicit];
-}
+};
