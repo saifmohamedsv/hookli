@@ -1,3 +1,5 @@
+<!-- GENERATED — do not edit. Source: packages/hookli/README.md (run `pnpm gen:manifest`). -->
+
 <p align="center">
   <a href="https://www.npmjs.com/package/hookli">
     <img src="https://raw.githubusercontent.com/saifmohamedsv/hookli/main/assets/hookli-banner.png" alt="hookli — React hooks, ready to use" width="680" />
